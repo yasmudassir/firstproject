@@ -1,0 +1,8 @@
+<html>
+<body>
+<h1>Github Tutorial</h1>
+<p>Create Repository synch to Github Desktop and work and upload.</p>
+<h2>Python</h2>
+<p>next we'll be creating a python project</p>
+</body>
+</html>
